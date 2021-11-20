@@ -7,16 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		81408A782745E7700081677D /* nssl0042.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81408A6E2745E7700081677D /* nssl0042.jpeg */; };
+		81408A792745E7700081677D /* nssl0033.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81408A6F2745E7700081677D /* nssl0033.jpeg */; };
+		81408A7A2745E7700081677D /* nssl0043.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81408A702745E7700081677D /* nssl0043.jpeg */; };
+		81408A7B2745E7700081677D /* nssl0051.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81408A712745E7700081677D /* nssl0051.jpeg */; };
+		81408A7C2745E7700081677D /* nssl0091.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81408A722745E7700081677D /* nssl0091.jpeg */; };
+		81408A7D2745E7700081677D /* nssl0041.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81408A732745E7700081677D /* nssl0041.jpeg */; };
+		81408A7E2745E7700081677D /* nssl0034.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81408A742745E7700081677D /* nssl0034.jpeg */; };
+		81408A7F2745E7700081677D /* nssl0049.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81408A752745E7700081677D /* nssl0049.jpeg */; };
+		81408A802745E7700081677D /* nssl0045.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81408A762745E7700081677D /* nssl0045.jpeg */; };
+		81408A812745E7700081677D /* nssl0046.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81408A772745E7700081677D /* nssl0046.jpeg */; };
+		81408A872745FE150081677D /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81408A862745FE150081677D /* DetailViewController.swift */; };
 		816C45642745CFFF008AB176 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816C45632745CFFF008AB176 /* AppDelegate.swift */; };
 		816C45662745CFFF008AB176 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816C45652745CFFF008AB176 /* SceneDelegate.swift */; };
 		816C45682745CFFF008AB176 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816C45672745CFFF008AB176 /* ViewController.swift */; };
 		816C456B2745CFFF008AB176 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 816C45692745CFFF008AB176 /* Main.storyboard */; };
 		816C456D2745D001008AB176 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 816C456C2745D001008AB176 /* Assets.xcassets */; };
 		816C45702745D001008AB176 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 816C456E2745D001008AB176 /* LaunchScreen.storyboard */; };
+		81F53C3727499D1D000B557C /* ViewControllerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81F53C3627499D1D000B557C /* ViewControllerExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		816C45602745CFFF008AB176 /* StormViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StormViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		81408A6E2745E7700081677D /* nssl0042.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpeg; sourceTree = "<group>"; };
+		81408A6F2745E7700081677D /* nssl0033.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpeg; sourceTree = "<group>"; };
+		81408A702745E7700081677D /* nssl0043.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpeg; sourceTree = "<group>"; };
+		81408A712745E7700081677D /* nssl0051.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpeg; sourceTree = "<group>"; };
+		81408A722745E7700081677D /* nssl0091.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpeg; sourceTree = "<group>"; };
+		81408A732745E7700081677D /* nssl0041.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpeg; sourceTree = "<group>"; };
+		81408A742745E7700081677D /* nssl0034.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpeg; sourceTree = "<group>"; };
+		81408A752745E7700081677D /* nssl0049.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpeg; sourceTree = "<group>"; };
+		81408A762745E7700081677D /* nssl0045.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpeg; sourceTree = "<group>"; };
+		81408A772745E7700081677D /* nssl0046.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpeg; sourceTree = "<group>"; };
+		81408A862745FE150081677D /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		8140DA9E2747FCEE00AB48BB /* StormViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StormViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		816C45632745CFFF008AB176 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		816C45652745CFFF008AB176 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		816C45672745CFFF008AB176 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +47,7 @@
 		816C456C2745D001008AB176 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		816C456F2745D001008AB176 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		816C45712745D001008AB176 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81F53C3627499D1D000B557C /* ViewControllerExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,30 +65,42 @@
 			isa = PBXGroup;
 			children = (
 				816C45622745CFFF008AB176 /* StormViewer */,
-				816C45612745CFFF008AB176 /* Products */,
+				8140DA9E2747FCEE00AB48BB /* StormViewer.app */,
 			);
-			sourceTree = "<group>";
-		};
-		816C45612745CFFF008AB176 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				816C45602745CFFF008AB176 /* StormViewer.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		816C45622745CFFF008AB176 /* StormViewer */ = {
 			isa = PBXGroup;
 			children = (
+				81F53C3527499CF2000B557C /* Extensions */,
 				816C45632745CFFF008AB176 /* AppDelegate.swift */,
 				816C45652745CFFF008AB176 /* SceneDelegate.swift */,
 				816C45672745CFFF008AB176 /* ViewController.swift */,
+				81408A862745FE150081677D /* DetailViewController.swift */,
 				816C45692745CFFF008AB176 /* Main.storyboard */,
 				816C456C2745D001008AB176 /* Assets.xcassets */,
 				816C456E2745D001008AB176 /* LaunchScreen.storyboard */,
+				81408A6F2745E7700081677D /* nssl0033.jpeg */,
+				81408A742745E7700081677D /* nssl0034.jpeg */,
+				81408A732745E7700081677D /* nssl0041.jpeg */,
+				81408A6E2745E7700081677D /* nssl0042.jpeg */,
+				81408A702745E7700081677D /* nssl0043.jpeg */,
+				81408A762745E7700081677D /* nssl0045.jpeg */,
+				81408A772745E7700081677D /* nssl0046.jpeg */,
+				81408A752745E7700081677D /* nssl0049.jpeg */,
+				81408A712745E7700081677D /* nssl0051.jpeg */,
+				81408A722745E7700081677D /* nssl0091.jpeg */,
 				816C45712745D001008AB176 /* Info.plist */,
 			);
 			path = StormViewer;
+			sourceTree = "<group>";
+		};
+		81F53C3527499CF2000B557C /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				81F53C3627499D1D000B557C /* ViewControllerExtensions.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -84,7 +120,7 @@
 			);
 			name = StormViewer;
 			productName = StormViewer;
-			productReference = 816C45602745CFFF008AB176 /* StormViewer.app */;
+			productReference = 8140DA9E2747FCEE00AB48BB /* StormViewer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +147,7 @@
 				Base,
 			);
 			mainGroup = 816C45572745CFFF008AB176;
-			productRefGroup = 816C45612745CFFF008AB176 /* Products */;
+			productRefGroup = 816C45572745CFFF008AB176;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -126,8 +162,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				816C45702745D001008AB176 /* LaunchScreen.storyboard in Resources */,
+				81408A792745E7700081677D /* nssl0033.jpeg in Resources */,
+				81408A802745E7700081677D /* nssl0045.jpeg in Resources */,
+				81408A7B2745E7700081677D /* nssl0051.jpeg in Resources */,
+				81408A7C2745E7700081677D /* nssl0091.jpeg in Resources */,
+				81408A7A2745E7700081677D /* nssl0043.jpeg in Resources */,
 				816C456D2745D001008AB176 /* Assets.xcassets in Resources */,
+				81408A7E2745E7700081677D /* nssl0034.jpeg in Resources */,
 				816C456B2745CFFF008AB176 /* Main.storyboard in Resources */,
+				81408A782745E7700081677D /* nssl0042.jpeg in Resources */,
+				81408A812745E7700081677D /* nssl0046.jpeg in Resources */,
+				81408A7F2745E7700081677D /* nssl0049.jpeg in Resources */,
+				81408A7D2745E7700081677D /* nssl0041.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +187,8 @@
 				816C45682745CFFF008AB176 /* ViewController.swift in Sources */,
 				816C45642745CFFF008AB176 /* AppDelegate.swift in Sources */,
 				816C45662745CFFF008AB176 /* SceneDelegate.swift in Sources */,
+				81F53C3727499D1D000B557C /* ViewControllerExtensions.swift in Sources */,
+				81408A872745FE150081677D /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,8 +335,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 33X87SWU62;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = StormViewer/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -303,6 +353,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.gabrielrom.StormViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -314,8 +365,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 33X87SWU62;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = StormViewer/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -330,6 +383,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.gabrielrom.StormViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
